@@ -1,0 +1,44 @@
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\ServiceApp.exe
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\SecurityManager.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\bin\x64\Debug\SecurityManager.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.exe
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.exe
+C:\Users\Admin\Desktop\VEZBE 2016\AccessControls\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\obj\x64\Debug\ServiceApp.exe
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\obj\x64\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\bin\x64\Debug\ServiceApp.exe
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\bin\x64\Debug\Contracts.dll
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\ServiceApp\bin\x64\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\ServiceApp\bin\x64\Debug\ServiceApp.exe
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\ServiceApp\bin\x64\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\ServiceApp\bin\x64\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\ServiceApp\obj\x64\Debug\ServiceApp.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CopyComplete
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\ServiceApp\obj\x64\Debug\ServiceApp.exe
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\ServiceApp\bin\x64\Debug\ServiceApp.exe
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\ServiceApp\bin\x64\Debug\Contracts.dll
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\ServiceApp\bin\x64\Debug\Contracts.pdb
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\ServiceApp\obj\x64\Debug\ServiceApp.csproj.AssemblyReference.cache
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CopyComplete
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\ServiceApp\obj\x64\Debug\ServiceApp.exe
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\ServiceApp\obj\x64\Debug\ServiceApp.pdb
+C:\Users\EC\Downloads\projekat\ServiceApp\bin\x64\Debug\ServiceApp.exe
+C:\Users\EC\Downloads\projekat\ServiceApp\bin\x64\Debug\ServiceApp.pdb
+C:\Users\EC\Downloads\projekat\ServiceApp\bin\x64\Debug\Contracts.dll
+C:\Users\EC\Downloads\projekat\ServiceApp\bin\x64\Debug\Contracts.pdb
+C:\Users\EC\Downloads\projekat\ServiceApp\obj\x64\Debug\ServiceApp.csproj.AssemblyReference.cache
+C:\Users\EC\Downloads\projekat\ServiceApp\obj\x64\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\EC\Downloads\projekat\ServiceApp\obj\x64\Debug\ServiceApp.exe
+C:\Users\EC\Downloads\projekat\ServiceApp\obj\x64\Debug\ServiceApp.pdb

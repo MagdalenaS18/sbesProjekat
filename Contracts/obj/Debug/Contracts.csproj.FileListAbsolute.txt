@@ -1,0 +1,6 @@
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\bin\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\bin\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\obj\Debug\Contracts.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\obj\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\obj\Debug\Contracts.pdb

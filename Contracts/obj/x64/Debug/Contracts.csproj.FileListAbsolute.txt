@@ -1,0 +1,26 @@
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\bin\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\bin\x64\Debug\Contracts.pdb
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\obj\x64\Debug\Contracts.dll
+D:\Doktorske\PREDMETI\ESI\00 ESI_VEZBE\08 - Autorizacija\Zadatak\AccessControls\Contracts\obj\x64\Debug\Contracts.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\Contracts\bin\x64\Debug\Contracts.dll
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\Contracts\bin\x64\Debug\Contracts.pdb
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\Contracts\obj\x64\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\Contracts\obj\x64\Debug\Contracts.dll
+C:\Users\Admin\Desktop\VEZBE 2016\Vezba_3\AccessControls_template\Contracts\obj\x64\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\bin\x64\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\bin\x64\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\obj\x64\Debug\Contracts.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\obj\x64\Debug\Contracts.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\obj\x64\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 4 - Autorizacija\Vezba_4_template\Vezba_4\Contracts\obj\x64\Debug\Contracts.pdb
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\Contracts\bin\x64\Debug\Contracts.dll
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\Contracts\bin\x64\Debug\Contracts.pdb
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\Contracts\obj\x64\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\Contracts\obj\x64\Debug\Contracts.dll
+C:\Users\EC\Downloads\sbeees\Vezba_4_template\Vezba_4\Contracts\obj\x64\Debug\Contracts.pdb
+C:\Users\EC\Downloads\projekat\Contracts\bin\x64\Debug\Contracts.dll
+C:\Users\EC\Downloads\projekat\Contracts\bin\x64\Debug\Contracts.pdb
+C:\Users\EC\Downloads\projekat\Contracts\obj\x64\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\EC\Downloads\projekat\Contracts\obj\x64\Debug\Contracts.dll
+C:\Users\EC\Downloads\projekat\Contracts\obj\x64\Debug\Contracts.pdb

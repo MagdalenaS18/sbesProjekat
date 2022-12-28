@@ -14,9 +14,9 @@ namespace Contracts
         [DataMember]
         public string Message { get => message; set => message = value; }
 
-        public SecurityException(string message)
-        {
-            Message = message;
-        }
+        //public SecurityException(string message)
+        //{
+        //    Message = message;
+        //}
     }
 }

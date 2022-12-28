@@ -14,7 +14,7 @@ namespace ServiceApp
 	{
 		static void Main(string[] args)
 		{
-			string fileName = @"C:\Users\EC\Downloads\projekat\baza.txt";
+			string fileName = @"C:\Users\HP\Desktop\sbesProjekat\sbesProjekat\baza.txt";
 			NetTcpBinding binding = new NetTcpBinding();
 			string address = "net.tcp://localhost:9999/WCFService";
 

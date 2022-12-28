@@ -23,6 +23,20 @@ namespace ClientApp
 				korisnik.SredstvaNaRacunu = sredstva;
 				korisnik.IdK = WindowsIdentity.GetCurrent().Name;
 				// provjeriti jel treba ovo iznad izbrisati idk i sredstva
+
+				// POZIVANJE METODA
+				proxy.DodajKoncert(6, new Koncert(6, "Koncert", DateTime.Now.AddDays(5), "Grad", 100));
+				proxy.IzmeniKoncert(6, new Koncert(6, "Novi koncert", DateTime.Now.AddDays(5), "Grad", 100));
+				proxy.IzmeniKoncert(7, new Koncert(7, "Novi novi koncert", DateTime.Now.AddDays(5), "Grad", 100));
+				proxy.NapraviRezervaciju(new Rezervacija(3, 2, DateTime.Now.AddDays(1), 5, StanjeRezervacije.POTREBNO_PLATITI));
+				proxy.NapraviRezervaciju(new Rezervacija(10, 10, DateTime.Now.AddDays(1), 5, StanjeRezervacije.POTREBNO_PLATITI));
+				proxy.NapraviRezervaciju(new Rezervacija(2, 1, DateTime.Now.AddDays(1), 5, StanjeRezervacije.PLACENA));
+				proxy.PlatiRezervaciju(new Korisnik(WindowsIdentity.GetCurrent().Name, sredstva)
+					, new Rezervacija(3, 2, DateTime.Now.AddDays(1), 5, StanjeRezervacije.POTREBNO_PLATITI)
+					, new Koncert(6, "Novi koncert", DateTime.Now.AddDays(5), "Grad", 100));
+				proxy.PlatiRezervaciju(new Korisnik(WindowsIdentity.GetCurrent().Name, sredstva)
+					, new Rezervacija(3, 2, DateTime.Now.AddDays(1), 5, StanjeRezervacije.PLACENA)
+					, new Koncert(6, "Novi koncert", DateTime.Now.AddDays(5), "Grad", 100));
 			}
 
 			Console.ReadLine();

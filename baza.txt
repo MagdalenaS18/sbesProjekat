@@ -1,0 +1,16 @@
+Spisak koncerata:
+
+	Id : 1, naziv : Opera, vreme pocetka : 28.12.2030. 16:52:02, lokacija : Novi Sad , cena karte : 23
+
+	Id : 2, naziv : Zeljko Joksimovic, vreme pocetka : 28.12.2025. 16:52:02, lokacija : Banja Luka , cena karte : 50
+
+	Id : 3, naziv : 2000's, vreme pocetka : 28.6.2023. 16:52:02, lokacija : Beograd , cena karte : 10
+
+	Id : 4, naziv : Toni Cetinski, vreme pocetka : 2.2.2023. 16:52:02, lokacija : Trebinje , cena karte : 80
+
+	Id : 5, naziv : Vlado Georgijev, vreme pocetka : 28.7.2023. 16:52:02, lokacija : Kragujevac , cena karte : 35
+Spisak rezervacija:
+
+	Id rezervacije : 2, id koncerta : 1, vreme rezervacije : 28.12.2022. 16:52:02, kolicina karata : 22 , stanje rezervacije : PLACENA
+
+	Id rezervacije : 4, id koncerta : 5, vreme rezervacije : 28.12.2022. 16:52:02, kolicina karata : 12 , stanje rezervacije : POTREBNO_PLATITI

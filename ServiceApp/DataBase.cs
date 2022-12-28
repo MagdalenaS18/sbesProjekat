@@ -18,10 +18,10 @@ namespace ServiceApp
             Koncert k2 = new Koncert(2, "Zeljko Joksimovic", DateTime.Now.AddYears(3), "Banja Luka", 50);
             Koncert k3 = new Koncert(3, "2000's", DateTime.Now.AddMonths(6), "Beograd", 10);
             Koncert k4 = new Koncert(4, "Toni Cetinski", DateTime.Now.AddDays(36), "Trebinje", 80);
-            Koncert k5 = new Koncert(1, "Vlado Georgijev", DateTime.Now.AddMonths(7), "Kragujevac", 35);
+            Koncert k5 = new Koncert(5, "Vlado Georgijev", DateTime.Now.AddMonths(7), "Kragujevac", 35);
 
             Rezervacija r1 = new Rezervacija(2, 1, DateTime.Now, 22, StanjeRezervacije.PLACENA);
-            Rezervacija r2 = new Rezervacija(4, 6, DateTime.Now, 12, StanjeRezervacije.POTREBNO_PLATITI);
+            Rezervacija r2 = new Rezervacija(4, 5, DateTime.Now, 12, StanjeRezervacije.POTREBNO_PLATITI);
 
             koncerti.Add(1, k1);
             koncerti.Add(2, k2);

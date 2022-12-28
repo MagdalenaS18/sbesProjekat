@@ -40,6 +40,10 @@ namespace ClientApp
                 Console.WriteLine("Adding Concert allowed");
                 return true;
             }
+            catch(FaultException<Contracts.SecurityException> se)
+            {
+                Console.WriteLine("Error while trying to access: {0}", se.Message);
+            }
             catch (Exception e)
             {
                 Console.WriteLine("Error while trying to Adding a Concert : {0}", e.Message);
@@ -56,6 +60,10 @@ namespace ClientApp
             {
                 retValue = factory.IzmeniKoncert(key, koncert);
                 Console.WriteLine("Modify allowed");
+            }
+            catch (FaultException<SecurityException> se)
+            {
+                Console.WriteLine("Error while trying to access: {0}", se.Message);
             }
             catch (Exception e)
             {
@@ -74,6 +82,10 @@ namespace ClientApp
                 retValue = factory.NapraviRezervaciju(rezervacija);
                 Console.WriteLine("Adding Reservation allowed");
             }
+            catch (FaultException<SecurityException> se)
+            {
+                Console.WriteLine("Error while trying to access: {0}", se.Message);
+            }
             catch (Exception e)
             {
                 Console.WriteLine("Error while trying to Adding Reservation : {0}", e.Message);
@@ -90,6 +102,10 @@ namespace ClientApp
             {
                 retValue = factory.PlatiRezervaciju(korisnik, rezervacija, koncert);
                 Console.WriteLine("Paying Reservation allowed");
+            }
+            catch (FaultException<SecurityException> se)
+            {
+                Console.WriteLine("Error while trying to access: {0}", se.Message);
             }
             catch (Exception e)
             {

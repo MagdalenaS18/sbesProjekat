@@ -25,19 +25,33 @@ namespace ServiceApp
 			Console.WriteLine("WCFService is opened.");
 			Database db = new Database();
 			//db.ToString();
-			FileStream stream = null;
-            try
+			FileStream file = new FileStream(fileName, FileMode.OpenOrCreate);
+			Console.WriteLine("File opened");
+			StreamWriter streamWriter = null;
+			try
+			{
+				using (streamWriter = new StreamWriter(file))
+				{
+					streamWriter.WriteLine("Spisak koncerata:");
+					foreach (Koncert k in Database.koncerti.Values)
+					{
+						k.ToString();
+						streamWriter.WriteLine("\n\t" + k);
+					}
+					streamWriter.WriteLine("Spisak rezervacija:");
+					foreach (Rezervacija r in Database.rezervacije.Values)
+					{
+						r.ToString();
+						streamWriter.WriteLine("\n\t" + r);
+
+					}
+				}
+			} catch(Exception e)
             {
-				stream = new FileStream(fileName, FileMode.OpenOrCreate);
-				using(StreamWriter writer = new StreamWriter(fileName))
-                {
-					writer.WriteLine(db.ToString());
-                }
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
+				Console.WriteLine(e.Message);
+			}
+			//streamWriter.Close();
+			//file.Close();
             //Console.WriteLine("WCFService is opened. Press <enter> to finish...");
             Console.ReadLine();
 

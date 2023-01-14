@@ -1,5 +1,0 @@
-C:\Users\EC\Downloads\GITT\sbesProjekat\Manager\bin\Debug\Manager.dll
-C:\Users\EC\Downloads\GITT\sbesProjekat\Manager\bin\Debug\Manager.pdb
-C:\Users\EC\Downloads\GITT\sbesProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
-C:\Users\EC\Downloads\GITT\sbesProjekat\Manager\obj\Debug\Manager.dll
-C:\Users\EC\Downloads\GITT\sbesProjekat\Manager\obj\Debug\Manager.pdb

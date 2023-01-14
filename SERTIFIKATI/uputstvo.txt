@@ -1,0 +1,3 @@
+WCFClient - user wcfclient	
+WCFService - user wcfservice
+pass - 1234

@@ -1,0 +1,33 @@
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Contracts\bin\Debug\Contracts.dll
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Contracts\bin\Debug\Contracts.pdb
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Contracts\obj\Debug\Contracts.dll
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Contracts\obj\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Contracts\bin\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Contracts\bin\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Contracts\obj\Debug\Contracts.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Contracts\obj\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Contracts\obj\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Contracts\bin\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Contracts\bin\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Contracts\obj\Debug\Contracts.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Contracts\obj\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Contracts\obj\Debug\Contracts.pdb
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Contracts\bin\Debug\Contracts.dll
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Contracts\bin\Debug\Contracts.pdb
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Contracts\obj\Debug\Contracts.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Contracts\obj\Debug\Contracts.dll
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Contracts\obj\Debug\Contracts.pdb
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Contracts\bin\Debug\Contracts.dll
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Contracts\bin\Debug\Contracts.pdb
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Contracts\obj\Debug\Contracts.dll
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Contracts\obj\Debug\Contracts.pdb
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Contracts\bin\Debug\Contracts.dll
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Contracts\bin\Debug\Contracts.pdb
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Contracts\obj\Debug\Contracts.dll
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Contracts\obj\Debug\Contracts.pdb

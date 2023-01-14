@@ -1,0 +1,82 @@
+C:\Users\ZoranaBabic\Desktop\Vezba_04\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\ZoranaBabic\Desktop\Vezba_04\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\ZoranaBabic\Desktop\Vezba_04\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\ZoranaBabic\Desktop\Vezba_04\ClientApp\bin\Debug\Contracts.dll
+C:\Users\ZoranaBabic\Desktop\Vezba_04\ClientApp\bin\Debug\Manager.dll
+C:\Users\ZoranaBabic\Desktop\Vezba_04\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\ZoranaBabic\Desktop\Vezba_04\ClientApp\bin\Debug\Manager.pdb
+C:\Users\ZoranaBabic\Desktop\Vezba_04\ClientApp\obj\x86\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\ZoranaBabic\Desktop\Vezba_04\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\ZoranaBabic\Desktop\Vezba_04\ClientApp\obj\x86\Debug\ClientApp.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\bin\Debug\ClientApp.exe.config
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\bin\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\bin\Debug\ClientApp.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\bin\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\bin\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\bin\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\bin\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\obj\x86\Debug\ClientApp.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\obj\x86\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\ClientApp\obj\x86\Debug\ClientApp.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\obj\x86\Debug\ClientApp.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\bin\Debug\ClientApp.exe.config
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\bin\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\bin\Debug\ClientApp.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\bin\Debug\Contracts.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\bin\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\bin\Debug\Contracts.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\bin\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\obj\x86\Debug\ClientApp.exe
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Contracts.dll
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Manager.dll
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Manager.pdb
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Contracts.dll
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Manager.dll
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Manager.pdb
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Contracts.dll
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Manager.dll
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Manager.pdb
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Contracts.dll
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Manager.dll
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Manager.pdb
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.pdb

@@ -1,0 +1,45 @@
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Manager\bin\Debug\Manager.dll
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Manager\bin\Debug\Manager.pdb
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Manager\obj\Debug\Manager.dll
+C:\Users\ZoranaBabic\Desktop\Vezba_04\Manager\obj\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\bin\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\bin\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\obj\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2019-2020\Vezba 2 i 3 - Sertifikati\Vezba_4_resenje\Vezba_04\Manager\obj\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Manager\bin\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Manager\bin\Debug\Manager.pdb
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Manager\obj\Debug\Manager.dll
+E:\POSAO\FAX\SBES\2020-2021\Vezba 3 - Sertifikati\Vezba_3_resenje\Vezba_02_resenje\Manager\obj\Debug\Manager.pdb
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Manager\bin\Debug\Manager.dll
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Manager\bin\Debug\Manager.pdb
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.AuditEventFile.resources
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.dll
+C:\Users\HP\Downloads\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.pdb
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Manager\bin\Debug\Manager.dll
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Manager\bin\Debug\Manager.pdb
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.AuditEventFile.resources
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.dll
+C:\Users\wcfservice\Downloads\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.pdb
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\bin\Debug\Manager.dll
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\bin\Debug\Manager.pdb
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.AuditEventFile.resources
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.dll
+C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.pdb
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\bin\Debug\Manager.dll
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\bin\Debug\Manager.pdb
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.dll
+C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.pdb

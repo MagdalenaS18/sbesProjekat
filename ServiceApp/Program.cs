@@ -46,13 +46,13 @@ namespace ServiceApp
 			host.Credentials.ClientCertificate.Authentication.RevocationMode = X509RevocationMode.NoCheck;
 			host.Credentials.ServiceCertificate.Certificate = CertManager.GetCertificateFromStorage(StoreName.My, StoreLocation.LocalMachine, srvCertCN);
 
-            //host.Authorization.PrincipalPermissionMode = PrincipalPermissionMode.Custom;
-            //List<IAuthorizationPolicy> policies = new List<IAuthorizationPolicy>();
-            //policies.Add(new CustomAuthorizationPolicy());
-            //host.Authorization.ExternalAuthorizationPolicies = policies.AsReadOnly();
+			//host.Authorization.PrincipalPermissionMode = PrincipalPermissionMode.Custom;
+			//List<IAuthorizationPolicy> policies = new List<IAuthorizationPolicy>();
+			//policies.Add(new CustomAuthorizationPolicy());
+			//host.Authorization.ExternalAuthorizationPolicies = policies.AsReadOnly();
 
-            // Audit
-            ServiceSecurityAuditBehavior newAuditBehavior = new ServiceSecurityAuditBehavior();
+			// Audit
+			ServiceSecurityAuditBehavior newAuditBehavior = new ServiceSecurityAuditBehavior();
 			newAuditBehavior.AuditLogLocation = AuditLogLocation.Application;
 			newAuditBehavior.ServiceAuthorizationAuditLevel = AuditLevel.SuccessOrFailure;
 			host.Description.Behaviors.Remove<ServiceSecurityAuditBehavior>();
@@ -66,35 +66,35 @@ namespace ServiceApp
 				Console.WriteLine("WCFService is opened.\n");
 				Database db = new Database();
 
-                FileStream file = new FileStream(fileName, FileMode.OpenOrCreate);
-                Console.WriteLine("File opened");
-                StreamWriter streamWriter = null;
+				FileStream file = new FileStream(fileName, FileMode.OpenOrCreate);
+				Console.WriteLine("File opened");
+				StreamWriter streamWriter = null;
 
-                try
-                {
-                    using (streamWriter = new StreamWriter(file))
-                    {
-                        streamWriter.WriteLine("Spisak koncerata:");
-                        foreach (Koncert k in Database.koncerti.Values)
-                        {
-                            k.ToString();
-                            streamWriter.WriteLine("\n\t" + k);
-                        }
-                        streamWriter.WriteLine("Spisak rezervacija:");
-                        foreach (Rezervacija r in Database.rezervacije.Values)
-                        {
-                            r.ToString();
-                            streamWriter.WriteLine("\n\t" + r);
+				try
+				{
+					using (streamWriter = new StreamWriter(file))
+					{
+						streamWriter.WriteLine("Spisak koncerata:");
+						foreach (Koncert k in Database.koncerti.Values)
+						{
+							k.ToString();
+							streamWriter.WriteLine("\n\t" + k);
+						}
+						streamWriter.WriteLine("Spisak rezervacija:");
+						foreach (Rezervacija r in Database.rezervacije.Values)
+						{
+							r.ToString();
+							streamWriter.WriteLine("\n\t" + r);
 
-                        }
-                    }
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine(e.Message);
-                }
+						}
+					}
+				}
+				catch (Exception e)
+				{
+					Console.WriteLine(e.Message);
+				}
 
-                Console.ReadLine();
+				Console.ReadLine();
 			}
 			catch (Exception e)
 			{

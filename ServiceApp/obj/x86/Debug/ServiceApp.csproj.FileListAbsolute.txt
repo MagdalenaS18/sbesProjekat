@@ -7,3 +7,5 @@ C:\Users\HP\Desktop\sbesProjekat\sbesProjekat\ServiceApp\obj\x86\Debug\ServiceAp
 C:\Users\HP\Desktop\sbesProjekat\sbesProjekat\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CopyComplete
 C:\Users\HP\Desktop\sbesProjekat\sbesProjekat\ServiceApp\obj\x86\Debug\ServiceApp.exe
 C:\Users\HP\Desktop\sbesProjekat\sbesProjekat\ServiceApp\obj\x86\Debug\ServiceApp.pdb
+C:\Users\EC\Downloads\GITT\sbesProjekat\ServiceApp\obj\x86\Debug\ServiceApp.csproj.AssemblyReference.cache
+C:\Users\EC\Downloads\GITT\sbesProjekat\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CoreCompileInputs.cache

@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.ServiceModel;
 using Contracts;
+using Manager;
+using System.Security.Principal;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ClientApp
 {
@@ -11,11 +14,33 @@ namespace ClientApp
 	{
 		IWCFService factory;
 
-		public WCFClient(NetTcpBinding binding, EndpointAddress address)
-			: base(binding, address)
-		{
-			factory = this.CreateChannel();
-		}
+        public WCFClient(NetTcpBinding binding, EndpointAddress address)
+              : base(binding, address)
+        {
+            /// cltCertCN.SubjectName should be set to the client's username. .NET WindowsIdentity class provides information about Windows user running the given process
+            string cltCertCN = Formatter.ParseName(WindowsIdentity.GetCurrent().Name);
+
+            this.Credentials.ServiceCertificate.Authentication.CertificateValidationMode = System.ServiceModel.Security.X509CertificateValidationMode.Custom;
+            this.Credentials.ServiceCertificate.Authentication.CustomCertificateValidator = new ClientCertValidator();
+            this.Credentials.ServiceCertificate.Authentication.RevocationMode = X509RevocationMode.NoCheck;
+
+            /// Set appropriate client's certificate on the channel. Use CertManager class to obtain the certificate based on the "cltCertCN"
+            this.Credentials.ClientCertificate.Certificate = CertManager.GetCertificateFromStorage(StoreName.My, StoreLocation.LocalMachine, cltCertCN);
+
+            factory = this.CreateChannel();
+        }
+
+        public void TestCommunication()
+        {
+            try
+            {
+                factory.TestCommunication();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("[TestCommunication] ERROR = {0}", e.Message);
+            }
+        }
 
         public void Dispose()
 		{
@@ -27,18 +52,12 @@ namespace ClientApp
 			this.Close();
 		}
 
-        public bool DodajKoncert(int key, Koncert koncert)
+        public void DodajKoncert(int key, Koncert koncert)
         {
-            //throw new NotImplementedException();
-
-            //Koncert kon = null;
-
-            bool retValue = false;
             try
             {
-                retValue = factory.DodajKoncert(key, koncert);
+                factory.DodajKoncert(key, koncert);
                 Console.WriteLine("Adding Concert allowed");
-                return true;
             }
             catch(FaultException<Contracts.SecurityException> se)
             {
@@ -48,17 +67,13 @@ namespace ClientApp
             {
                 Console.WriteLine("Error while trying to Adding a Concert : {0}", e.Message);
             }
-            return false;
         }
 
-        public bool IzmeniKoncert(int key, Koncert koncert)
+        public void IzmeniKoncert(int key, Koncert koncert)
         {
-            //throw new NotImplementedException();
-
-            bool retValue = false;
             try
             {
-                retValue = factory.IzmeniKoncert(key, koncert);
+                factory.IzmeniKoncert(key, koncert);
                 Console.WriteLine("Modify allowed");
             }
             catch (FaultException<SecurityException> se)
@@ -69,17 +84,13 @@ namespace ClientApp
             {
                 Console.WriteLine("Error while trying to Modify : {0}", e.Message);
             }
-            return retValue;
         }
 
-        public bool NapraviRezervaciju(Rezervacija rezervacija)
+        public void NapraviRezervaciju(Rezervacija rezervacija)
         {
-            //throw new NotImplementedException();
-
-            bool retValue = false;
             try
             {
-                retValue = factory.NapraviRezervaciju(rezervacija);
+                factory.NapraviRezervaciju(rezervacija);
                 Console.WriteLine("Adding Reservation allowed");
             }
             catch (FaultException<SecurityException> se)
@@ -90,17 +101,13 @@ namespace ClientApp
             {
                 Console.WriteLine("Error while trying to Adding Reservation : {0}", e.Message);
             }
-            return retValue;
         }
 
-        public bool PlatiRezervaciju(Korisnik korisnik, Rezervacija rezervacija, Koncert koncert)
+        public void PlatiRezervaciju(Korisnik korisnik, Rezervacija rezervacija, Koncert koncert)
         {
-            //throw new NotImplementedException();
-
-            bool retValue = false;
             try
             {
-                retValue = factory.PlatiRezervaciju(korisnik, rezervacija, koncert);
+                factory.PlatiRezervaciju(korisnik, rezervacija, koncert);
                 Console.WriteLine("Paying Reservation allowed");
             }
             catch (FaultException<SecurityException> se)
@@ -111,7 +118,6 @@ namespace ClientApp
             {
                 Console.WriteLine("Error while trying to Paying Reservation : {0}", e.Message);
             }
-            return retValue;
         }
     }
 }

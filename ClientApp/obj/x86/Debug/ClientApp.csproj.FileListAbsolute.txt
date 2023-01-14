@@ -7,3 +7,5 @@ C:\Users\HP\Desktop\sbesProjekat\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.
 C:\Users\HP\Desktop\sbesProjekat\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
 C:\Users\HP\Desktop\sbesProjekat\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.exe
 C:\Users\HP\Desktop\sbesProjekat\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\EC\Downloads\GITT\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\EC\Downloads\GITT\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache

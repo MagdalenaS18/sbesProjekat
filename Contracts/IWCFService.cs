@@ -11,22 +11,25 @@ namespace Contracts
 	{
 
 		[OperationContract]
-		[FaultContract(typeof(SecurityException))]
-		bool DodajKoncert(int key, Koncert koncert);
+		void TestCommunication();
 
 		[OperationContract]
 		[FaultContract(typeof(SecurityException))]
-		bool IzmeniKoncert(int key, Koncert koncert);
+		void DodajKoncert(int key, Koncert koncert);
+
+		[OperationContract]
+		[FaultContract(typeof(SecurityException))]
+		void IzmeniKoncert(int key, Koncert koncert);
 
 
 		[OperationContract]
 		[FaultContract(typeof(SecurityException))]
-		bool NapraviRezervaciju(Rezervacija rezervacija);
+		void NapraviRezervaciju(Rezervacija rezervacija);
 
 
 		[OperationContract]
 		[FaultContract(typeof(SecurityException))]
-		bool PlatiRezervaciju(Korisnik korisnik, Rezervacija rezervacija, Koncert koncert);
+		void PlatiRezervaciju(Korisnik korisnik, Rezervacija rezervacija, Koncert koncert);
 
 	}
 }

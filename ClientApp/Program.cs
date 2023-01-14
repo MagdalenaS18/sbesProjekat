@@ -73,34 +73,34 @@ namespace ClientApp
 					, new Koncert(4, "Toni Cetinski", DateTime.Now.AddDays(36), "Trebinje", 80));
 
 
-				//FileStream file = new FileStream(fileName, FileMode.OpenOrCreate);
-				//Console.WriteLine("File opened");
-				//StreamWriter streamWriter = null;
+                //FileStream file = new FileStream(fileName, FileMode.OpenOrCreate);
+                //Console.WriteLine("File opened");
+                //StreamWriter streamWriter = null;
 
-				//try
-				//{
-				//    using (streamWriter = new StreamWriter(file))
-				//    {
-				//        streamWriter.WriteLine("Spisak koncerata:");
-				//        foreach (Koncert k in Database.koncerti.Values)
-				//        {
-				//            k.ToString();
-				//            streamWriter.WriteLine("\n\t" + k);
-				//        }
-				//        streamWriter.WriteLine("Spisak rezervacija:");
-				//        foreach (Rezervacija r in Database.rezervacije.Values)
-				//        {
-				//            r.ToString();
-				//            streamWriter.WriteLine("\n\t" + r);
+                //try
+                //{
+                //    using (streamWriter = new StreamWriter(file))
+                //    {
+                //        streamWriter.WriteLine("Spisak koncerata:");
+                //        foreach (Koncert k in Database.koncerti.Values)
+                //        {
+                //            k.ToString();
+                //            streamWriter.WriteLine("\n\t" + k);
+                //        }
+                //        streamWriter.WriteLine("Spisak rezervacija:");
+                //        foreach (Rezervacija r in Database.rezervacije.Values)
+                //        {
+                //            r.ToString();
+                //            streamWriter.WriteLine("\n\t" + r);
 
-				//        }
-				//    }
-				//}
-				//catch (Exception e)
-				//{
-				//    Console.WriteLine(e.Message);
-				//}
-			}
+                //        }
+                //    }
+                //}
+                //catch (Exception e)
+                //{
+                //    Console.WriteLine(e.Message);
+                //}
+            }
 
 			Console.ReadLine();
 		}

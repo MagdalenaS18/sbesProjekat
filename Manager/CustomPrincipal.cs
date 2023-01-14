@@ -38,10 +38,9 @@ namespace Manager
 
             //string name = Formatter.ParseName(System.Security.Principal.WindowsIdentity.GetCurrent().Name);   NE RADI = NULL
 
-            string clientName = Formatter.ParseName(ServiceSecurityContext.Current.PrimaryIdentity.Name);
 
             X509Certificate2 certificate = CertManager.GetCertificateFromStorage(StoreName.My, StoreLocation.LocalMachine,
-                clientName);
+                Formatter.ParseName(WindowsIdentity.GetCurrent().Name));
 
             //X509Certificate2 certificate1 = CertManager.GetCertificateFromStorage(StoreName.My, StoreLocation.LocalMachine,
             //    "wcfclient2");

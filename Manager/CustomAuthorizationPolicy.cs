@@ -39,11 +39,13 @@ namespace Manager
                 return false;
             }
 
-            WindowsIdentity windowsIdentity = identities as WindowsIdentity;
+            WindowsIdentity windowsIdentity = identities[0] as WindowsIdentity;
+            //CustomPrincipal principal = Thread.CurrentPrincipal as CustomPrincipal;
 
             try
             {
                 Audit.AuthenticationSuccess(Formatter.ParseName(windowsIdentity.Name));
+                //Audit.AuthenticationSuccess(Formatter.ParseName(principal.Identity.Name));
             }
             catch (Exception e)
             {

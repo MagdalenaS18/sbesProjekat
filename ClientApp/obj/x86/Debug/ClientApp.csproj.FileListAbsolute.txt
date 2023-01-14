@@ -68,15 +68,3 @@ C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_re
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.exe
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.pdb
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.exe.config
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.exe
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\ClientApp.pdb
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Contracts.dll
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Manager.dll
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Contracts.pdb
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\bin\Debug\Manager.pdb
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.AssemblyReference.cache
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.exe
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.pdb

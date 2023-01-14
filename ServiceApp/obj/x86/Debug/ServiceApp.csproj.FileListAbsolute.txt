@@ -67,15 +67,3 @@ C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_re
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CopyComplete
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\obj\x86\Debug\ServiceApp.exe
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\obj\x86\Debug\ServiceApp.pdb
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\bin\Debug\ServiceApp.exe.config
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\bin\Debug\ServiceApp.exe
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\bin\Debug\ServiceApp.pdb
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\bin\Debug\Contracts.dll
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\bin\Debug\Manager.dll
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\bin\Debug\Contracts.pdb
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\bin\Debug\Manager.pdb
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\obj\x86\Debug\ServiceApp.csproj.AssemblyReference.cache
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CoreCompileInputs.cache
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CopyComplete
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\obj\x86\Debug\ServiceApp.exe
-C:\Users\EC\Downloads\sbesSve\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ServiceApp\obj\x86\Debug\ServiceApp.pdb

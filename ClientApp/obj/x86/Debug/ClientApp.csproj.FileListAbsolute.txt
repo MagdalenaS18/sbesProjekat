@@ -68,3 +68,15 @@ C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_re
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.exe
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\bin\Debug\Contracts.dll
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\bin\Debug\Manager.dll
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\bin\Debug\Manager.pdb
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.pdb

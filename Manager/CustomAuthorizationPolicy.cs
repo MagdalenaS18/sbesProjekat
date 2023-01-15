@@ -4,6 +4,7 @@ using System.IdentityModel.Claims;
 using System.IdentityModel.Policy;
 using System.Linq;
 using System.Security.Principal;
+using System.ServiceModel;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -40,7 +41,7 @@ namespace Manager
             }
 
             WindowsIdentity windowsIdentity = identities[0] as WindowsIdentity;
-            //CustomPrincipal principal = Thread.CurrentPrincipal as CustomPrincipal;
+            //CustomPrincipal principal = new CustomPrincipal(windowsIdentity);
 
             try
             {

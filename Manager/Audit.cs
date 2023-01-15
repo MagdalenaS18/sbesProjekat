@@ -33,8 +33,6 @@ namespace Manager
 
 		public static void AuthenticationSuccess(string userName)
 		{
-			//TO DO
-
 			if (customLog != null)
 			{
 				string UserAuthenticationSuccess = AuditEvents.AuthenticationSuccess;
@@ -50,7 +48,6 @@ namespace Manager
 
 		public static void AuthorizationSuccess(string userName, string serviceName)
 		{
-			//TO DO
 			if (customLog != null)
 			{
 				string AuthorizationSuccess = AuditEvents.AuthorizationSuccess;
@@ -87,7 +84,6 @@ namespace Manager
 
 		public static void AddingToDatabaseSuccess(string userName, string serviceName)
 		{
-			//TO DO
 			if (customLog != null)
 			{
 				string AddingToDatabaseSuccess = AuditEvents.AddingToDatabaseSuccess;

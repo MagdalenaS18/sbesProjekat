@@ -48,26 +48,5 @@ namespace ServiceApp
                 Console.WriteLine(r);
             }
         }
-
-
-        //public override string ToString()
-        //{
-
-        //    Console.WriteLine("Spisak koncerata:");
-        //    foreach (Koncert k in koncerti.Values)
-        //    {
-        //        k.ToString();
-        //        Console.WriteLine(k);
-        //    }
-
-        //    Console.WriteLine("Spisak rezervacija:");
-        //    foreach (Rezervacija r in rezervacije.Values)
-        //    {
-        //        r.ToString();
-        //        Console.WriteLine(r);
-
-        //    }
-        //    return "";
-        //}
     }
 }

@@ -37,3 +37,11 @@ C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_re
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.dll
 C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\rjesenje\Vezba_03_resenje\Manager\obj\Debug\Manager.pdb
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\obj\Debug\Manager.AuditEventFile.resources
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\obj\Debug\Manager.pdb

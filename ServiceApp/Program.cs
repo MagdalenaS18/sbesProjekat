@@ -34,22 +34,17 @@ namespace ServiceApp
 			// ovo provjeriti da li nam treba
 			//host.Description.Behaviors.Remove(typeof(ServiceDebugBehavior));
 			//host.Description.Behaviors.Add(new ServiceDebugBehavior() { IncludeExceptionDetailInFaults = true });
-			//host.Authorization.ServiceAuthorizationManager = new ServiceAuthorizationManager();
+
 			//host.Authorization.PrincipalPermissionMode = PrincipalPermissionMode.Custom;
-			//List<IAuthorizationPolicy> authorizationPolicies = new List<IAuthorizationPolicy>();
-			//authorizationPolicies.Add(new AuthorizationPolicy());
-			//host.Authorization.ExternalAuthorizationPolicies = authorizationPolicies.AsReadOnly();
+			//List<IAuthorizationPolicy> policies = new List<IAuthorizationPolicy>();
+			//policies.Add(new CustomAuthorizationPolicy());
+			//host.Authorization.ExternalAuthorizationPolicies = policies.AsReadOnly();
 
 			///Custom validation mode enables creation of a custom validator - CustomCertificateValidator
 			host.Credentials.ClientCertificate.Authentication.CertificateValidationMode = X509CertificateValidationMode.Custom;
 			host.Credentials.ClientCertificate.Authentication.CustomCertificateValidator = new ServiceCertValidator();
 			host.Credentials.ClientCertificate.Authentication.RevocationMode = X509RevocationMode.NoCheck;
 			host.Credentials.ServiceCertificate.Certificate = CertManager.GetCertificateFromStorage(StoreName.My, StoreLocation.LocalMachine, srvCertCN);
-
-            //host.Authorization.PrincipalPermissionMode = PrincipalPermissionMode.Custom;
-            //List<IAuthorizationPolicy> policies = new List<IAuthorizationPolicy>();
-            //policies.Add(new CustomAuthorizationPolicy());
-            //host.Authorization.ExternalAuthorizationPolicies = policies.AsReadOnly();
 
             // Audit
             ServiceSecurityAuditBehavior newAuditBehavior = new ServiceSecurityAuditBehavior();
@@ -74,17 +69,15 @@ namespace ServiceApp
                 {
                     using (streamWriter = new StreamWriter(file))
                     {
-                        streamWriter.WriteLine("Spisak koncerata:");
+                        streamWriter.WriteLine("\nSpisak koncerata:");
                         foreach (Koncert k in Database.koncerti.Values)
                         {
-                            k.ToString();
-                            streamWriter.WriteLine("\n\t" + k);
+                            streamWriter.WriteLine("\n\t" + k.ToString());
                         }
-                        streamWriter.WriteLine("Spisak rezervacija:");
+                        streamWriter.WriteLine("\nSpisak rezervacija:");
                         foreach (Rezervacija r in Database.rezervacije.Values)
                         {
-                            r.ToString();
-                            streamWriter.WriteLine("\n\t" + r);
+                            streamWriter.WriteLine("\n\t" + r.ToString());
 
                         }
                     }

@@ -34,6 +34,12 @@ namespace ClientApp
 
 			using (WCFClient proxy = new WCFClient(binding, address))
 			{
+				proxy.TestCommunication();
+				Console.WriteLine("TestCommunication() finished. \n");
+
+				Console.WriteLine("------- Korisnik koji je pokrenuo klijenta je: " + 
+					Formatter.ParseName(WindowsIdentity.GetCurrent().Name) + "\n");
+				
 				try
 				{
 					Audit.AuthenticationSuccess(Formatter.ParseName(WindowsIdentity.GetCurrent().Name));
@@ -42,12 +48,6 @@ namespace ClientApp
 				{
 					Console.WriteLine(e.Message);
 				}
-				
-				proxy.TestCommunication();
-				Console.WriteLine("TestCommunication() finished. \n");
-
-				Console.WriteLine("------- Korisnik koji je pokrenuo klijenta je: " + 
-					Formatter.ParseName(WindowsIdentity.GetCurrent().Name) + "\n");
 
 				string idKorisnika = Formatter.ParseName(WindowsIdentity.GetCurrent().Name);
 

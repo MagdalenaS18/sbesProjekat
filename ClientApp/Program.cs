@@ -34,6 +34,15 @@ namespace ClientApp
 
 			using (WCFClient proxy = new WCFClient(binding, address))
 			{
+				try
+				{
+					Audit.AuthenticationSuccess(Formatter.ParseName(WindowsIdentity.GetCurrent().Name));
+				}
+				catch (Exception e)
+				{
+					Console.WriteLine(e.Message);
+				}
+				
 				proxy.TestCommunication();
 				Console.WriteLine("TestCommunication() finished. \n");
 

@@ -45,3 +45,10 @@ C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\obj\Debug\Manager.csproj.Genera
 C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\obj\Debug\Manager.dll
 C:\Users\HP\Desktop\gitSbes\sbesProjekat\Manager\obj\Debug\Manager.pdb
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\Manager\bin\Debug\Manager.dll
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\Manager\bin\Debug\Manager.pdb
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\Manager\obj\Debug\Manager.AuditEventFile.resources
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\Manager\obj\Debug\Manager.dll
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\Manager\obj\Debug\Manager.pdb

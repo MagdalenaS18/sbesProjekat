@@ -79,3 +79,15 @@ C:\Users\HP\Desktop\gitSbes\sbesProjekat\ServiceApp\obj\x86\Debug\ServiceApp.csp
 C:\Users\HP\Desktop\gitSbes\sbesProjekat\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CopyComplete
 C:\Users\HP\Desktop\gitSbes\sbesProjekat\ServiceApp\obj\x86\Debug\ServiceApp.exe
 C:\Users\HP\Desktop\gitSbes\sbesProjekat\ServiceApp\obj\x86\Debug\ServiceApp.pdb
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\bin\Debug\ServiceApp.exe.config
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\bin\Debug\ServiceApp.exe
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\bin\Debug\ServiceApp.pdb
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\bin\Debug\Contracts.dll
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\bin\Debug\Manager.dll
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\bin\Debug\Contracts.pdb
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\bin\Debug\Manager.pdb
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\obj\x86\Debug\ServiceApp.csproj.AssemblyReference.cache
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CopyComplete
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\obj\x86\Debug\ServiceApp.exe
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ServiceApp\obj\x86\Debug\ServiceApp.pdb

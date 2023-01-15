@@ -25,29 +25,17 @@ namespace Manager
 
         public bool IsInRole(string role)
         {
-            foreach (IdentityReference group in this.identity.Groups)
+            X509Certificate2 certificate = CertManager.GetCertificateFromStorage(StoreName.My, StoreLocation.LocalMachine,
+            Formatter.ParseName(ServiceSecurityContext.Current.PrimaryIdentity.Name));
+
+            string grupa = certificate.SubjectName.Name.Split(',')[1].Split('=')[1];
+
+            if (role.Equals(grupa))
             {
-                //X509Certificate2 certificate = CertManager.GetCertificateFromStorage(StoreName.My, StoreLocation.LocalMachine,
-                //Formatter.ParseName(WindowsIdentity.GetCurrent().Name));
-
-                //string grupa = certificate.SubjectName.Name.Split(',')[1].Split('=')[1];
-
-                //if (role.Equals(grupa))
-                //{
-                //    return true;
-                //}
-
-                SecurityIdentifier sid = (SecurityIdentifier)group.Translate(typeof(SecurityIdentifier));
-                var name = sid.Translate(typeof(NTAccount));
-                string groupName = Formatter.ParseName(name.ToString());
-
-                if (role.Equals(groupName))
-                {
-                    return true;
-                }
+                return true;
             }
-            return false;
 
+            return false;
         }
     }
 }

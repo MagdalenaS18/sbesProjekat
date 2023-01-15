@@ -80,3 +80,15 @@ C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.cspro
 C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
 C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.exe
 C:\Users\HP\Desktop\gitSbes\sbesProjekat\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\bin\Debug\Contracts.dll
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\bin\Debug\Manager.dll
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\bin\Debug\Manager.pdb
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\obj\x86\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\ClientApp\obj\x86\Debug\ClientApp.pdb

@@ -15,21 +15,15 @@ namespace ServiceApp
     public class WCFService : IWCFService
     {
         //string fileName = @"C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\novabaza.txt";
-        string fileName = @"C:\Users\wcfservice\Downloads\sbesSve\rjesenje (1)\rjesenje\baza.txt";
+        string fileName = @"C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\baza.txt";
 
         CustomPrincipal grupa = new CustomPrincipal(WindowsIdentity.GetCurrent());
 
         public void DodajUBazu(object obj)
         {
-
-            //CustomPrincipal principal = Thread.CurrentPrincipal as CustomPrincipal;
-            //string userName = Formatter.ParseName(principal.Identity.Name);
-
             string userName = Formatter.ParseName(ServiceSecurityContext.Current.PrimaryIdentity.Name);
 
             if (grupa.IsInRole("Admin") || grupa.IsInRole("Korisnik"))
-
-            //if (Thread.CurrentPrincipal.IsInRole("Admin") || principal.IsInRole("Korisnik"))
             {
                 FileStream file = new FileStream(fileName, FileMode.Append, FileAccess.Write);
                 StreamWriter streamWriter;
@@ -85,12 +79,7 @@ namespace ServiceApp
         {
             string userName = Formatter.ParseName(ServiceSecurityContext.Current.PrimaryIdentity.Name);
 
-            //CustomPrincipal principal = Thread.CurrentPrincipal as CustomPrincipal;
-            //string userName = Formatter.ParseName(principal.Identity.Name);
-
             if (grupa.IsInRole("Admin")) {
-
-            //if (Thread.CurrentPrincipal.IsInRole("Admin")) {
                 if (!Database.koncerti.ContainsKey(key))
                 {
                     Database.koncerti.Add(key, koncert);
@@ -139,12 +128,7 @@ namespace ServiceApp
         {
             string userName = Formatter.ParseName(ServiceSecurityContext.Current.PrimaryIdentity.Name);
 
-            //CustomPrincipal principal = Thread.CurrentPrincipal as CustomPrincipal;
-            //string userName = Formatter.ParseName(principal.Identity.Name);
-
             if (grupa.IsInRole("Admin")) {
-
-            //if (Thread.CurrentPrincipal.IsInRole("Admin")) {
                 if (Database.koncerti.ContainsKey(key))
                 {
                     Database.koncerti[key] = koncert;
@@ -194,12 +178,7 @@ namespace ServiceApp
         {
             string userName = Formatter.ParseName(ServiceSecurityContext.Current.PrimaryIdentity.Name);
 
-            //CustomPrincipal principal = Thread.CurrentPrincipal as CustomPrincipal;
-            //string userName = Formatter.ParseName(principal.Identity.Name);
-
             if (grupa.IsInRole("Korisnik"))
-
-            //if (Thread.CurrentPrincipal.IsInRole("Korisnik"))
             {
                 if (!Database.rezervacije.ContainsKey(rezervacija.IdR) && Database.rezervacije.ContainsKey(rezervacija.IdKoncerta))
                 {
@@ -259,12 +238,7 @@ namespace ServiceApp
         {
             string userName = Formatter.ParseName(ServiceSecurityContext.Current.PrimaryIdentity.Name);
 
-            //CustomPrincipal principal = Thread.CurrentPrincipal as CustomPrincipal;
-            //string userName = Formatter.ParseName(principal.Identity.Name);
-
             if (grupa.IsInRole("Korisnik"))
-            
-            //if(Thread.CurrentPrincipal.IsInRole("Korisnik"))
             {
                 if (Database.koncerti.ContainsKey(koncert.Id) && Database.rezervacije.ContainsKey(rezervacija.IdR))
                 {

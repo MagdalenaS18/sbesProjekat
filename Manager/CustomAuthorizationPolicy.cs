@@ -41,12 +41,10 @@ namespace Manager
             }
 
             WindowsIdentity windowsIdentity = identities[0] as WindowsIdentity;
-            //CustomPrincipal principal = new CustomPrincipal(windowsIdentity);
 
             try
             {
                 Audit.AuthenticationSuccess(Formatter.ParseName(windowsIdentity.Name));
-                //Audit.AuthenticationSuccess(Formatter.ParseName(principal.Identity.Name));
             }
             catch (Exception e)
             {

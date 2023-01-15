@@ -22,7 +22,8 @@ namespace ClientApp
 			NetTcpBinding binding = new NetTcpBinding();
 			binding.Security.Transport.ClientCredentialType = TcpClientCredentialType.Certificate;
 
-			//string client = Formatter.ParseName(SystemSecurityContext.Current.PrimaryIdentity.Name);
+			//string client = Formatter.ParseName(ServiceSecurityContext.Current.PrimaryIdentity.Name);
+			//Console.WriteLine(client + "\n");
 
 			X509Certificate2 srvCert = CertManager.GetCertificateFromStorage(StoreName.TrustedPeople, 
 				StoreLocation.LocalMachine, srvCertCN);
@@ -44,8 +45,8 @@ namespace ClientApp
 				Console.WriteLine("Unesite vasa sredstva: ");
 				double sredstva = Double.Parse(Console.ReadLine());
 				Korisnik korisnik = new Korisnik(idKorisnika, sredstva);
-				korisnik.SredstvaNaRacunu = sredstva;
-				korisnik.IdK = idKorisnika;
+				//korisnik.SredstvaNaRacunu = sredstva;
+				//korisnik.IdK = idKorisnika;
 				// provjeriti jel treba ovo iznad izbrisati idk i sredstva
 
 				proxy.DodajKoncert(6, new Koncert(6, "Koncert", DateTime.Now.AddDays(5), "Grad", 100));

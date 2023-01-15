@@ -20,7 +20,7 @@ namespace ServiceApp
 	{
 		static void Main(string[] args)
 		{
-			string fileName = @"C:\Users\wcfservice\Downloads\rjesenje\baza.txt";
+			string fileName = @"C:\Users\wcfservice\Downloads\sbesProjekat-main\sbesProjekat-main\baza.txt";
 
 			string srvCertCN = Formatter.ParseName(WindowsIdentity.GetCurrent().Name);
 
@@ -31,17 +31,17 @@ namespace ServiceApp
 			ServiceHost host = new ServiceHost(typeof(WCFService));
 			host.AddServiceEndpoint(typeof(IWCFService), binding, address);
 
-			// ovo provjeriti da li nam treba
-			//host.Description.Behaviors.Remove(typeof(ServiceDebugBehavior));
-			//host.Description.Behaviors.Add(new ServiceDebugBehavior() { IncludeExceptionDetailInFaults = true });
+            // ovo provjeriti da li nam treba
+            host.Description.Behaviors.Remove(typeof(ServiceDebugBehavior));
+            host.Description.Behaviors.Add(new ServiceDebugBehavior() { IncludeExceptionDetailInFaults = true });
 
-			//host.Authorization.PrincipalPermissionMode = PrincipalPermissionMode.Custom;
-			//List<IAuthorizationPolicy> policies = new List<IAuthorizationPolicy>();
-			//policies.Add(new CustomAuthorizationPolicy());
-			//host.Authorization.ExternalAuthorizationPolicies = policies.AsReadOnly();
+            //host.Authorization.PrincipalPermissionMode = PrincipalPermissionMode.Custom;
+            //List<IAuthorizationPolicy> policies = new List<IAuthorizationPolicy>();
+            //policies.Add(new CustomAuthorizationPolicy());
+            //host.Authorization.ExternalAuthorizationPolicies = policies.AsReadOnly();
 
-			///Custom validation mode enables creation of a custom validator - CustomCertificateValidator
-			host.Credentials.ClientCertificate.Authentication.CertificateValidationMode = X509CertificateValidationMode.Custom;
+            ///Custom validation mode enables creation of a custom validator - CustomCertificateValidator
+            host.Credentials.ClientCertificate.Authentication.CertificateValidationMode = X509CertificateValidationMode.Custom;
 			host.Credentials.ClientCertificate.Authentication.CustomCertificateValidator = new ServiceCertValidator();
 			host.Credentials.ClientCertificate.Authentication.RevocationMode = X509RevocationMode.NoCheck;
 			host.Credentials.ServiceCertificate.Certificate = CertManager.GetCertificateFromStorage(StoreName.My, StoreLocation.LocalMachine, srvCertCN);
@@ -59,7 +59,7 @@ namespace ServiceApp
 			{
 				host.Open();
 				Console.WriteLine("WCFService is opened.\n");
-				Database db = new Database();
+				//Database db = new Database();
 
                 FileStream file = new FileStream(fileName, FileMode.OpenOrCreate);
                 Console.WriteLine("File opened");
@@ -80,6 +80,7 @@ namespace ServiceApp
                             streamWriter.WriteLine("\n\t" + r.ToString());
 
                         }
+						streamWriter.WriteLine("\n\nNovi unos:");
                     }
                 }
                 catch (Exception e)

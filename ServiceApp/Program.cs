@@ -60,6 +60,15 @@ namespace ServiceApp
 				host.Open();
 				Console.WriteLine("WCFService is opened.\n");
 				//Database db = new Database();
+				
+				try
+				{
+					Audit.AuthenticationSuccess(Formatter.ParseName(WindowsIdentity.GetCurrent().Name));
+				}
+				catch (Exception e)
+				{
+					Console.WriteLine(e.Message);
+				}
 
                 FileStream file = new FileStream(fileName, FileMode.OpenOrCreate);
                 Console.WriteLine("File opened");
